@@ -9,3 +9,15 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+BOJ/cmake-build-debug/BOJ.exe
+*.iml
+*.xml
+BOJ/cmake-build-debug/.cmake/api/v1/query/cache-v2
+*.json
+BOJ/cmake-build-debug/.cmake/api/v1/query/toolchains-v1
+BOJ/cmake-build-debug/.ninja_log
+BOJ/CMakeLists.txt
+BOJ/cmake-build-debug/.cmake/api/v1/query/codemodel-v2
+*.ninja
+BOJ/cmake-build-debug/.ninja_deps
+BOJ/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1
